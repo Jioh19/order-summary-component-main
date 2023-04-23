@@ -6,4 +6,8 @@
 
     --white:  hsl(225, 100%, 98%);
     --text-info: hsl(224, 23%, 55%);
+
+    --hover: hsl(225, 100%, 94%);
+    --desaturated: hsl(224, 23%, 55%);
+    --darkblue: hsl(223, 47%, 23%);
 }

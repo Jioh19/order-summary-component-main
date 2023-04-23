@@ -124,6 +124,12 @@ h1 {
 	text-decoration: underline;
 }
 
+.change:hover {
+	color: hsla(var(--boton), 0.7);
+	text-decoration: none;
+	cursor: pointer;
+}
+
 .planName {
 	padding-inline: 0.5rem;
 	font-weight: 700;
@@ -150,7 +156,17 @@ h1 {
 	color: var(--white);
 }
 
+.payment:hover {
+	background-color: hsla(var(--boton), 0.7);
+	cursor: pointer;
+}
+
 .cancel {
 	color: var(--text-info);
     font-weight: 700;
+}
+
+.cancel:hover {
+	color: black;
+	cursor: pointer; 
 }
