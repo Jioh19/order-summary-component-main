@@ -1,0 +1,9 @@
+:root {
+    --background: 225, 100%, 94%;
+    --boton: 245, 75%, 52%;
+
+    --card-radius: 12px;
+
+    --white:  hsl(225, 100%, 98%);
+    --text-info: hsl(224, 23%, 55%);
+}
